@@ -91,7 +91,7 @@ header > h1{
     padding:10px;
 }
 .img-nav{
-    width: 40px;
+    width: 40px auto;
     margin:20px;
     padding:10px;
 }
