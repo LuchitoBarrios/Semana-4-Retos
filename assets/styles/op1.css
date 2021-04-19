@@ -4,7 +4,13 @@
     box-sizing: border-box;
 }
 
+body{
+    
+    background-color:#4f204e;
+
+}
 .contenedor{
+    
 
     border:1px solid yellow;
     display:grid;
